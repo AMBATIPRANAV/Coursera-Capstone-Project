@@ -1,6 +1,6 @@
 # Predicting of Popular Recipes
 
-The learning project from the DataCamp practical exam for Data Scientist Professional Certificate. The goals is to predict popular recipes (recipes with high traffic) on the fictional website by their features.
+The capstone project from the IBM Final Capstone Project for Data Scientist Professional Certificate. The goals is to predict popular recipes (recipes with high traffic) on the top 5 food recipe websites.
 
 Libraries: numpy, pandas, seaborn, matplolib, sklearn.
 
@@ -19,3 +19,6 @@ Libraries: numpy, pandas, seaborn, matplolib, sklearn.
 
 - The given problem was solved by using **the scikit-learn Logistic Regressin**. The result is in the [notebook final.ipynb](https://github.com/am-tropin/recipes-traffic/blob/main/notebook%20final.ipynb) file.
 
+
+
+Pranav Venkata Ambati
